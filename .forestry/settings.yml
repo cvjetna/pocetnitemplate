@@ -12,13 +12,13 @@ sections:
   templates:
   - post
 - type: directory
-  path: content/about
-  label: About
+  path: sadrzaj/onama
+  label: O nama
   create: none
   match: "*"
 - type: directory
-  path: content/contact
-  label: Contact
+  path: sadrzaj/kontakt
+  label: Kontakt
   create: none
   match: "*"
 - type: document
